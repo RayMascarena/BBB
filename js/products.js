@@ -181,97 +181,97 @@ export const products = [
 },
 {
     id: '29',
-    image: 'images/products/sennaposter.JPG',
+    image: 'images/products/sennaposter.jpg',
     name: 'Ayrton Senna <br> Poster',
     priceCents: 2899
 },
 {
     id: '30',
-    image: 'images/products/schumacherposter.JPG',
+    image: 'images/products/schumacherposter.jpg',
     name: 'Schumacher <br> Poster',
     priceCents: 2899
 },
 {
     id: '31',
-    image: 'images/products/vettelposter.JPG',
+    image: 'images/products/vettelposter.jpg',
     name: 'Sebastian Vettel <br> Poster',
     priceCents: 2899
 },
 {
     id: '32',
-    image: 'images/products/hamiltonposter.JPG',
+    image: 'images/products/hamiltonposter.jpg',
     name: 'Lewis Hamilton <br> Poster',
     priceCents: 2899
 },
 {
     id: '33',
-    image: 'images/products/leclercposter.JPG',
+    image: 'images/products/leclercposter.jpg',
     name: 'Charles Leclerc <br> Poster',
     priceCents: 2899
 },
 {
     id: '34',
-    image: 'images/products/sainzposter.JPG',
+    image: 'images/products/sainzposter.jpg',
     name: 'Carlos Sainz <br> Poster',
     priceCents: 2899
 },
 {
     id: '35',
-    image: 'images/products/landoposter.JPG',
+    image: 'images/products/landoposter.jpg',
     name: 'Lando Norris <br> Poster',
     priceCents: 2899
 },
 {
     id: '36',
-    image: 'images/products/alonsoposter.JPG',
+    image: 'images/products/alonsoposter.jpg',
     name: 'Fernando Alonso <br> Poster',
     priceCents: 2899
 },
 {
     id: '37',
-    image: 'images/products/spaposter.JPG',
+    image: 'images/products/spaposter.jpg',
     name: 'Spa <br> Poster',
     priceCents: 2899
 },
 {
     id: '38',
-    image: 'images/products/redbullringposter.JPG',
+    image: 'images/products/redbullringposter.jpg',
     name: 'Red Bull Ring <br> Poster',
     priceCents: 2899
 },
 {
     id: '39',
-    image: 'images/products/silverstoneposter.JPG',
+    image: 'images/products/silverstoneposter.jpg',
     name: 'Silverstone <br> Poster',
     priceCents: 2899
 },
 {
     id: '40',
-    image: 'images/products/zandvoortposter.JPG',
+    image: 'images/products/zandvoortposter.jpg',
     name: 'Zandvoort <br> Poster',
     priceCents: 2899
 },
 {
     id: '41',
-    image: 'images/products/miamiposter.JPG',
+    image: 'images/products/miamiposter.jpg',
     name: 'Miami <br> Poster',
     priceCents: 2899
 },
 {
     id: '42',
-    image: 'images/products/suzukaposter.JPG',
+    image: 'images/products/suzukaposter.jpg',
     name: 'Suzuka <br> Poster',
     priceCents: 2899
 },
 {
     id: '43',
-    image: 'images/products/abudhabiposter.JPG',
+    image: 'images/products/abudhabiposter.jpg',
     name: 'Abu Dhabi <br> Poster',
     priceCents: 2899
 },
 {
     id: '44',
-    image: 'images/products/monacoposter.JPG',
+    image: 'images/products/monacoposter.jpg',
     name: 'Monaco <br> Poster',
     priceCents: 2899
 },
